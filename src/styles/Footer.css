@@ -1,0 +1,14 @@
+.footerContainer {
+    text-align: center;
+    padding: 24px;
+    font-size: 2rem;
+}
+
+.footerLink {
+    text-decoration: none;
+    color: black;
+}
+
+.footerLink:hover {
+    text-decoration: underline;
+}
